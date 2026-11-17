@@ -1,0 +1,219 @@
+[
+  {
+    "id": "hubovy-stroganoff", "name": "Hubový stroganoff", "emoji": "🍄", "category": "Nové chute",
+    "servings": "4 porcie", "time": "35 min",
+    "ingredients": [
+      "600 g šampiňónov", "1 cibuľa", "2 lyžice masla", "1 lyžička sladkej papriky",
+      "1 lyžička horčice", "250 ml kyslej smotany", "1 lyžica hladkej múky", "100 ml vody",
+      "petržlenová vňať", "200 g ryže alebo tarhoňa", "štipka soli, korenie"
+    ],
+    "steps": [
+      "Ryžu alebo tarhoňu uvar podľa návodu na obale.",
+      "Cibuľu nakrájaj nadrobno a speň na masle.",
+      "Pridaj huby nakrájané na plátky a opekaj, kým sa neodparí voda.",
+      "Posyp paprikou, pridaj horčicu a podlej vodou.",
+      "Kyslú smotanu rozmiešaj s múkou a vmiešaj k hubám.",
+      "Var 3 minúty, okoreň a pridaj štipku soli.",
+      "Podávaj s ryžou a posyp vňaťou."
+    ]
+  },
+  {
+    "id": "shakshuka", "name": "Šakšuka (vajcia v paradajkovej omáčke)", "emoji": "🍳", "category": "Nové chute",
+    "servings": "2 porcie", "time": "30 min",
+    "ingredients": [
+      "1 cibuľa", "1 červená paprika", "2 strúčiky cesnaku", "2 lyžice oleja",
+      "1 lyžička sladkej papriky", "½ lyžičky rímskej rasce (kmín)", "1 konzerva krájaných paradajok",
+      "4 vajcia", "petržlenová vňať", "chlieb", "štipka soli"
+    ],
+    "steps": [
+      "Na hlbokej panvici speň cibuľu a papriku nakrájanú na prúžky.",
+      "Pridaj cesnak, sladkú papriku a rascu a krátko premiešaj.",
+      "Vlej paradajky a duš 10 minút, kým omáčka nezhustne.",
+      "Lyžicou urob v omáčke 4 jamky a do každej rozbi vajce.",
+      "Prikry pokrievkou a nechaj 6 až 8 minút, kým bielok nestuhne.",
+      "Posyp vňaťou a podávaj priamo z panvice s chlebom."
+    ]
+  },
+  {
+    "id": "cannelloni-spenat", "name": "Cannelloni so špenátom a tvarohom", "emoji": "🧀", "category": "Nové chute",
+    "servings": "4 porcie", "time": "1 h",
+    "ingredients": [
+      "250 g cannelloni (rúrky)", "400 g mrazeného špenátu", "250 g tvarohu alebo ricotty",
+      "1 vajce", "2 strúčiky cesnaku", "štipka muškátového orieška",
+      "700 ml paradajkovej passaty", "1 lyžička oregana", "150 g strúhanej mozzarelly"
+    ],
+    "steps": [
+      "Špenát rozmraz a dobre vytlač.",
+      "Zmiešaj špenát, tvaroh, vajce, cesnak a muškátový oriešok.",
+      "Plnku daj do sáčku, odstrihni roh a plň ňou rúrky.",
+      "Na dno zapekacej misy nalej polovicu passaty s oreganom.",
+      "Naukladaj rúrky a zalej ich zvyšnou passatou. Všetky musia byť zakryté.",
+      "Posyp mozzarellou, prikry alobalom a peč pri 190 °C 30 minút.",
+      "Alobal daj dole a peč ešte 10 minút dozlatista."
+    ]
+  },
+  {
+    "id": "gnocchi-salvia", "name": "Zemiakové gnocchi so šalviovým maslom", "emoji": "🥔", "category": "Nové chute",
+    "servings": "4 porcie", "time": "1 h",
+    "ingredients": [
+      "1 kg múčnatých zemiakov", "250 g hladkej múky", "1 vajce", "štipka soli",
+      "80 g masla", "8 lístkov šalvie", "strúhaný parmezán"
+    ],
+    "steps": [
+      "Zemiaky uvar v šupke do mäkka, ošúp ich teplé a prelisuj.",
+      "Keď vychladnú, pridaj múku, vajce a soľ a rýchlo vymiesi mäkké cesto.",
+      "Rozvaľkaj valčeky hrubé ako prst a nakrájaj ich na kúsky dlhé 2 cm.",
+      "Každý kúsok môžeš pretlačiť vidličkou.",
+      "Var vo vode, kým nevyplávajú, potom ich vyber dierovanou lyžicou.",
+      "Na panvici rozpusti maslo so šalviou, kým nezačne voňať.",
+      "Gnocchi v masle premiešaj a posyp parmezánom."
+    ],
+    "note": "Namiesto masla môžeš dať aj paradajkovú omáčku."
+  },
+  {
+    "id": "hubove-rizoto", "name": "Hubové rizoto", "emoji": "🍚", "category": "Nové chute",
+    "servings": "4 porcie", "time": "45 min",
+    "ingredients": [
+      "300 g guľatej ryže (arborio)", "1 hrsť sušených hríbov", "250 g šampiňónov", "1 cibuľa",
+      "2 lyžice masla", "1 l teplej vody alebo zeleninového vývaru bez soli",
+      "50 g strúhaného parmezánu", "petržlenová vňať", "korenie"
+    ],
+    "steps": [
+      "Sušené hríby namoč na 20 minút do pohára teplej vody. Vodu si nechaj.",
+      "Na masle speň cibuľu, pridaj šampiňóny aj hríby a opekaj 5 minút.",
+      "Pridaj ryžu a mešaj 2 minúty, kým nie je lesklá.",
+      "Podlej vodou z hríbov a mešaj, kým ju ryža nevpije.",
+      "Postupne prilievaj teplú vodu po naberačke a stále mešaj, asi 18 minút.",
+      "Ryža má byť mäkká a krémová.",
+      "Odstav, vmiešaj parmezán a kúsok masla, okoreň a posyp vňaťou."
+    ]
+  },
+  {
+    "id": "zelenina-feta", "name": "Pečená zelenina s fetou", "emoji": "🍆", "category": "Nové chute",
+    "servings": "4 porcie", "time": "50 min",
+    "ingredients": [
+      "1 cuketa", "1 baklažán", "2 papriky", "1 červená cibuľa", "250 g cherry paradajok",
+      "3 lyžice olivového oleja", "1 lyžička oregana alebo bazalky", "2 strúčiky cesnaku",
+      "150 g syra feta", "chlieb"
+    ],
+    "steps": [
+      "Rúru rozohrej na 200 °C.",
+      "Zeleninu nakrájaj na veľké kúsky a daj na plech.",
+      "Polej olejom, posyp bylinkami a cesnakom a premiešaj.",
+      "Peč 25 minút, raz premiešaj.",
+      "Navrch rozdrob fetu a peč ešte 10 minút.",
+      "Podávaj s chlebom. Feta je slaná, zeleninu nesoľ."
+    ]
+  },
+  {
+    "id": "sosovicova-bolonska", "name": "Šošovicová bolonská omáčka", "emoji": "🍝", "category": "Nové chute",
+    "servings": "4 porcie", "time": "45 min",
+    "ingredients": [
+      "200 g hnedej šošovice", "1 cibuľa", "1 mrkva", "2 strúčiky cesnaku", "2 lyžice olivového oleja",
+      "700 ml paradajkovej passaty", "1 lyžica paradajkového pretlaku", "1 lyžička oregana",
+      "1 lyžička cukru", "400 g špagiet", "strúhaný syr"
+    ],
+    "steps": [
+      "Šošovicu prepláchni a var 20 minút, nie úplne do mäkka. Sceď.",
+      "Na oleji speň nadrobno nakrájanú cibuľu a nastrúhanú mrkvu.",
+      "Pridaj cesnak a pretlak a krátko opraž.",
+      "Vlej passatu, pridaj šošovicu, oregano a cukor.",
+      "Var na miernom ohni 15 minút, kým omáčka nezhustne.",
+      "Medzitým uvar špagety.",
+      "Podávaj špagety s omáčkou a posyp syrom."
+    ]
+  },
+  {
+    "id": "dal", "name": "Jemný dal z červenej šošovice", "emoji": "🥣", "category": "Nové chute",
+    "servings": "4 porcie", "time": "30 min",
+    "ingredients": [
+      "250 g červenej šošovice", "1 cibuľa", "2 strúčiky cesnaku", "1 kúsok zázvoru (ako palec)",
+      "1 lyžička kurkumy", "1 lyžička mletej rasce (kmín)", "1 konzerva krájaných paradajok",
+      "800 ml vody", "2 lyžice oleja", "šťava z ½ citróna", "ryža na podávanie", "štipka soli"
+    ],
+    "steps": [
+      "Šošovicu prepláchni, kým voda nie je číra.",
+      "Na oleji speň cibuľu, pridaj cesnak a nastrúhaný zázvor.",
+      "Pridaj kurkumu a rascu, krátko premiešaj.",
+      "Pridaj šošovicu, paradajky a vodu.",
+      "Var 20 minút a občas zamiešaj, šošovica sa rozvarí na hustú kašu.",
+      "Dochuť citrónom a štipkou soli.",
+      "Podávaj s ryžou. Korenie je jemné, nepáli."
+    ]
+  },
+  {
+    "id": "cicer-spenat-kari", "name": "Cícer so špenátom v kokosovom mlieku", "emoji": "🥥", "category": "Nové chute",
+    "servings": "4 porcie", "time": "30 min",
+    "ingredients": [
+      "2 konzervy cíceru", "1 cibuľa", "2 strúčiky cesnaku", "1 kúsok zázvoru",
+      "2 lyžičky jemného kari korenia", "1 konzerva kokosového mlieka", "1 konzerva krájaných paradajok",
+      "200 g čerstvého alebo mrazeného špenátu", "2 lyžice oleja", "ryža", "štipka soli"
+    ],
+    "steps": [
+      "Cícer sceď a prepláchni.",
+      "Na oleji speň cibuľu, pridaj cesnak, zázvor a kari a krátko premiešaj.",
+      "Pridaj paradajky a kokosové mlieko a priveď do varu.",
+      "Pridaj cícer a var 10 minút.",
+      "Vmiešaj špenát a var ešte 2 minúty, kým nezvädne.",
+      "Dochuť štipkou soli a podávaj s ryžou. Čili nedávaj."
+    ]
+  },
+  {
+    "id": "plnena-tekvica", "name": "Plnená pečená tekvica hokkaido", "emoji": "🎃", "category": "Nové chute",
+    "servings": "4 porcie", "time": "1 h 15 min",
+    "ingredients": [
+      "2 menšie tekvice hokkaido", "150 g ryže", "250 g šampiňónov", "1 cibuľa",
+      "50 g vlašských orechov", "100 g strúhaného syra (napr. eidam)", "2 lyžice olivového oleja",
+      "1 lyžička tymiánu", "korenie"
+    ],
+    "steps": [
+      "Ryžu uvar.",
+      "Tekvice prekroj napoly a lyžicou vyber jadierka. Šupku nemusíš lúpať.",
+      "Potri ich olejom a peč reznou stranou dole pri 200 °C 25 minút.",
+      "Na oleji speň cibuľu a huby, pridaj tymian.",
+      "Zmiešaj ryžu, huby, nasekané orechy a polovicu syra a okoreň.",
+      "Tekvice otoč, naplň plnkou a posyp zvyšným syrom.",
+      "Peč ešte 15 minút, kým syr nie je zlatý."
+    ]
+  },
+  {
+    "id": "zeleninove-lasagne", "name": "Zeleninové lasagne", "emoji": "🧀", "category": "Nové chute",
+    "servings": "6 porcií", "time": "1 h 20 min",
+    "ingredients": [
+      "# Zelenina",
+      "2 cukety", "300 g mrazeného špenátu", "1 cibuľa", "2 strúčiky cesnaku", "700 ml paradajkovej passaty", "1 lyžička oregana",
+      "# Bešamel",
+      "50 g masla", "50 g hladkej múky", "700 ml mlieka", "štipka muškátového orieška",
+      "# Ostatné",
+      "12 plátov lasagní", "150 g strúhanej mozzarelly"
+    ],
+    "steps": [
+      "# Zelenina",
+      "Cukety nakrájaj na tenké kolieska. Špenát rozmraz a vytlač.",
+      "Na oleji speň cibuľu a cesnak, pridaj passatu a oregano a var 10 minút.",
+      "# Bešamel",
+      "Na masle opraž múku, postupne vlej mlieko a mešaj, kým omáčka nezhustne. Pridaj muškátový oriešok.",
+      "# Skladanie",
+      "Do misy daj trochu paradajkovej omáčky, potom pláty lasagní.",
+      "Pokračuj vrstvami: cukety a špenát, paradajková omáčka, bešamel, pláty.",
+      "Navrchu nech je bešamel, posyp mozzarellou.",
+      "Peč pri 180 °C asi 40 minút. Nechaj 10 minút postáť a potom krájaj."
+    ]
+  },
+  {
+    "id": "cvikla-kozi-syr", "name": "Šalát z cvikly s kozím syrom a orechmi", "emoji": "🥗", "category": "Nové chute",
+    "servings": "4 porcie (predjedlo)", "time": "15 min (+ varenie cvikly)",
+    "ingredients": [
+      "4 uvarené cvikly", "100 g mäkkého kozieho syra", "50 g vlašských orechov",
+      "2 hrste rukoly alebo šalátu", "2 lyžice olivového oleja", "1 lyžica medu", "1 lyžica balzamikového octu"
+    ],
+    "steps": [
+      "Cviklu ošúp a nakrájaj na tenké plátky alebo kocky.",
+      "Orechy krátko opraž na suchej panvici.",
+      "Zmiešaj olej, med a ocot na zálievku.",
+      "Na tanier daj rukolu, na ňu cviklu.",
+      "Navrch rozdrob kozí syr a posyp orechmi.",
+      "Polej zálievkou tesne pred podávaním."
+    ]
+  }
+]

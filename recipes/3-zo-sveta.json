@@ -1,0 +1,253 @@
+[
+  {
+    "id": "palak-paneer", "name": "Palak paneer (špenát so syrom)", "emoji": "🇮🇳", "category": "Zo sveta",
+    "servings": "4 porcie", "time": "35 min",
+    "ingredients": [
+      "500 g čerstvého alebo mrazeného špenátu", "250 g syra paneer (alebo halloumi bez soli, či tofu)",
+      "1 cibuľa", "2 strúčiky cesnaku", "1 kúsok zázvoru", "1 lyžička garam masala",
+      "½ lyžičky kurkumy", "100 ml smotany na varenie", "2 lyžice masla", "ryža alebo placky"
+    ],
+    "steps": [
+      "Špenát krátko spar vriacou vodou alebo rozmraz a rozmixuj na pyré.",
+      "Syr nakrájaj na kocky a na lyžici masla opeč dozlatista. Odlož.",
+      "Na zvyšnom masle speň cibuľu, cesnak a nastrúhaný zázvor.",
+      "Pridaj garam masalu a kurkumu a krátko premiešaj.",
+      "Pridaj špenát a smotanu a var 5 minút.",
+      "Vmiešaj kocky syra a podávaj s ryžou."
+    ]
+  },
+  {
+    "id": "chana-masala", "name": "Chana masala (cícer v paradajkovej omáčke)", "emoji": "🇮🇳", "category": "Zo sveta",
+    "servings": "4 porcie", "time": "30 min",
+    "ingredients": [
+      "2 konzervy cíceru", "2 cibule", "3 strúčiky cesnaku", "1 kúsok zázvoru",
+      "1 lyžička mletej rasce (kmín)", "1 lyžička mletého koriandra", "1 lyžička garam masala", "½ lyžičky kurkumy",
+      "1 konzerva krájaných paradajok", "200 ml vody", "2 lyžice oleja", "šťava z ½ citróna", "ryža alebo placky"
+    ],
+    "steps": [
+      "Cícer sceď a prepláchni.",
+      "Na oleji opraž cibuľu dozlatista, asi 8 minút.",
+      "Pridaj cesnak, zázvor a všetky koreniny a mešaj 1 minútu.",
+      "Pridaj paradajky a vodu a var 5 minút.",
+      "Pridaj cícer a var ešte 10 minút. Časť cíceru roztlač, omáčka zhustne.",
+      "Dochuť citrónom a podávaj s ryžou."
+    ]
+  },
+  {
+    "id": "aloo-gobi", "name": "Aloo gobi (zemiaky s karfiolom)", "emoji": "🇮🇳", "category": "Zo sveta",
+    "servings": "4 porcie", "time": "40 min",
+    "ingredients": [
+      "4 zemiaky", "1 menší karfiol", "1 cibuľa", "2 strúčiky cesnaku", "1 kúsok zázvoru",
+      "1 lyžička celej rasce (kmín)", "1 lyžička kurkumy", "1 lyžička garam masala",
+      "2 paradajky", "3 lyžice oleja", "petržlenová vňať alebo koriander", "štipka soli"
+    ],
+    "steps": [
+      "Zemiaky ošúp a nakrájaj na kocky, karfiol rozober na ružičky.",
+      "Vo veľkej panvici rozohrej olej a nechaj v ňom zapraskať rascu.",
+      "Pridaj cibuľu, cesnak a zázvor a speň.",
+      "Pridaj kurkumu, zemiaky a karfiol a dobre premiešaj.",
+      "Pridaj nakrájané paradajky a 100 ml vody, prikry a duš 20 minút do mäkka.",
+      "Posyp garam masalou a vňaťou, pridaj štipku soli."
+    ]
+  },
+  {
+    "id": "falafel-hummus", "name": "Falafel s hummusom a pitou", "emoji": "🧆", "category": "Zo sveta",
+    "servings": "4 porcie", "time": "45 min",
+    "ingredients": [
+      "# Falafel",
+      "2 konzervy cíceru", "1 cibuľa", "2 strúčiky cesnaku", "1 hrsť petržlenovej vňate",
+      "1 lyžička mletej rasce (kmín)", "3 lyžice hladkej múky", "olej na vyprážanie",
+      "# Hummus",
+      "1 konzerva cíceru", "2 lyžice tahini (sezamová pasta)", "šťava z 1 citróna", "1 strúčik cesnaku", "3 lyžice olivového oleja",
+      "# Podávanie",
+      "pita chlieb", "uhorka, paradajka", "biely jogurt"
+    ],
+    "steps": [
+      "# Hummus",
+      "Cícer sceď, odlož si trochu vody. Rozmixuj ho s tahini, citrónom, cesnakom, olejom a 3 lyžicami vody do hladka.",
+      "# Falafel",
+      "Cícer sceď a dobre osuš utierkou.",
+      "Rozmixuj ho s cibuľou, cesnakom, vňaťou a rascou nahrubo, nie na kašu.",
+      "Primiešaj múku a vlhkými rukami tvaruj guľky ako orech.",
+      "Vypráž v oleji dozlatista a polož na papierovú utierku.",
+      "# Podávanie",
+      "Pitu nahrej, natri hummusom, pridaj falafel, zeleninu a lyžicu jogurtu."
+    ]
+  },
+  {
+    "id": "mujaddara", "name": "Mujaddara (šošovica s ryžou a cibuľou)", "emoji": "🧅", "category": "Zo sveta",
+    "servings": "4 porcie", "time": "50 min",
+    "ingredients": [
+      "200 g hnedej šošovice", "150 g ryže", "4 veľké cibule", "5 lyžíc oleja",
+      "1 lyžička mletej rasce (kmín)", "1 lyžička škorice", "biely jogurt", "uhorkový šalát", "štipka soli"
+    ],
+    "steps": [
+      "Šošovicu var vo vode 15 minút, má ostať trochu tvrdá. Sceď.",
+      "Cibule nakrájaj na tenké pásiky.",
+      "Na oleji ich pomaly opekaj asi 25 minút a často mešaj, kým nie sú tmavo zlaté a sladké.",
+      "Polovicu cibule odlož na ozdobu.",
+      "Do hrnca k zvyšnej cibuli pridaj rascu, škoricu, ryžu, šošovicu a 450 ml vody.",
+      "Var pod pokrievkou na miernom ohni 18 minút, kým voda nezmizne.",
+      "Podávaj posypané odloženou cibuľou, s jogurtom a uhorkovým šalátom."
+    ]
+  },
+  {
+    "id": "baba-ganoush", "name": "Baba ganoush (nátierka z pečeného baklažánu)", "emoji": "🍆", "category": "Zo sveta",
+    "servings": "4 porcie", "time": "50 min",
+    "ingredients": [
+      "2 baklažány", "2 lyžice tahini (sezamová pasta)", "šťava z 1 citróna", "1 strúčik cesnaku",
+      "2 lyžice olivového oleja", "petržlenová vňať", "chlieb alebo pita"
+    ],
+    "steps": [
+      "Baklažány popichaj vidličkou.",
+      "Peč ich celé pri 220 °C asi 40 minút, kým nie sú úplne mäkké a šupka čierna.",
+      "Nechaj ich vychladnúť, rozrež a lyžicou vyber dužinu.",
+      "Dužinu roztlač vidličkou s tahini, citrónom, cesnakom a olejom.",
+      "Posyp vňaťou a pokvapkaj olejom.",
+      "Podávaj s chlebom."
+    ]
+  },
+  {
+    "id": "pad-thai", "name": "Zeleninový pad thai", "emoji": "🍜", "category": "Zo sveta",
+    "servings": "2 porcie", "time": "30 min",
+    "ingredients": [
+      "200 g ryžových rezancov", "2 vajcia", "1 mrkva", "1 hrsť fazuľových klíčkov", "3 jarné cibuľky",
+      "2 lyžice sójovej omáčky so zníženým obsahom soli", "1 lyžica hnedého cukru", "šťava z 1 limetky",
+      "50 g pražených arašidov (nesolených)", "2 lyžice oleja"
+    ],
+    "steps": [
+      "Rezance zalej horúcou vodou a nechaj 8 minút zmäknúť. Sceď.",
+      "Zmiešaj sójovú omáčku, cukor a limetkovú šťavu.",
+      "Na oleji opeč nastrúhanú mrkvu a cibuľku 2 minúty.",
+      "Odsuň zeleninu nabok, rozbi vajcia a miešaj, kým nestuhnú.",
+      "Pridaj rezance a omáčku a všetko spolu premiešaj 2 minúty.",
+      "Pridaj klíčky, posyp nasekanými arašidmi a podávaj s kúskom limetky."
+    ]
+  },
+  {
+    "id": "thai-kari", "name": "Thajské kokosové kari so zeleninou a tofu", "emoji": "🍛", "category": "Zo sveta",
+    "servings": "4 porcie", "time": "30 min",
+    "ingredients": [
+      "1 lyžica žltej alebo massaman kari pasty (len polovicu, je slaná)", "1 konzerva kokosového mlieka",
+      "200 g tofu", "1 paprika", "1 cuketa", "1 mrkva", "1 hrsť zelených fazuliek",
+      "1 lyžička hnedého cukru", "šťava z ½ limetky", "1 lyžica oleja", "ryža jasmínová"
+    ],
+    "steps": [
+      "Ryžu uvar.",
+      "Tofu nakrájaj na kocky a opeč na oleji dozlatista. Odlož.",
+      "Na tom istom oleji krátko opraž kari pastu.",
+      "Vlej kokosové mlieko a rozmiešaj.",
+      "Pridaj nakrájanú zeleninu a var 8 minút.",
+      "Pridaj tofu, cukor a limetku.",
+      "Podávaj s ryžou."
+    ]
+  },
+  {
+    "id": "miso-polievka", "name": "Miso polievka s tofu", "emoji": "🍵", "category": "Zo sveta",
+    "servings": "2 porcie", "time": "15 min",
+    "ingredients": [
+      "600 ml vody", "1 lyžica miso pasty (len jedna, je slaná)", "100 g mäkkého tofu",
+      "2 jarné cibuľky", "1 hrsť špenátu", "1 lyžička sušenej morskej riasy wakame (nemusí byť)"
+    ],
+    "steps": [
+      "Vodu zohrej, ale nevar.",
+      "Ak máš riasu, namoč ju na 5 minút do vody.",
+      "Miso rozmiešaj v naberačke teplej vody a vlej do hrnca.",
+      "Pridaj tofu nakrájané na malé kocky, špenát a riasu.",
+      "Zohrievaj 2 minúty, ale nevar, miso by stratilo chuť.",
+      "Posyp nakrájanou cibuľkou."
+    ]
+  },
+  {
+    "id": "ryza-s-vajcom", "name": "Vyprážaná ryža so zeleninou a vajcom", "emoji": "🍚", "category": "Zo sveta",
+    "servings": "2 porcie", "time": "20 min",
+    "ingredients": [
+      "300 g uvarenej vychladnutej ryže (najlepšie zo včera)", "2 vajcia", "1 hrsť mrazeného hrášku",
+      "1 mrkva", "3 jarné cibuľky", "1 strúčik cesnaku",
+      "1 lyžica sójovej omáčky so zníženým obsahom soli", "2 lyžice oleja"
+    ],
+    "steps": [
+      "Na veľkej panvici rozohrej olej.",
+      "Opeč nadrobno nakrájanú mrkvu, hrášok a cesnak 3 minúty.",
+      "Pridaj ryžu a opekaj 4 minúty, často mešaj.",
+      "Odsuň ryžu nabok, rozbi vajcia a miešaj, kým nestuhnú.",
+      "Všetko premiešaj so sójovou omáčkou.",
+      "Posyp jarnou cibuľkou."
+    ]
+  },
+  {
+    "id": "jarne-zavitky", "name": "Čerstvé jarné závitky s arašidovou omáčkou", "emoji": "🥬", "category": "Zo sveta",
+    "servings": "4 porcie (12 kusov)", "time": "40 min",
+    "ingredients": [
+      "# Závitky",
+      "12 listov ryžového papiera", "100 g ryžových rezancov", "1 mrkva", "1 uhorka", "1 paprika",
+      "listy šalátu", "čerstvá mäta alebo bazalka", "150 g tofu",
+      "# Omáčka",
+      "3 lyžice arašidového masla", "1 lyžica sójovej omáčky so zníženým obsahom soli", "1 lyžička medu", "šťava z ½ limetky", "4 lyžice teplej vody"
+    ],
+    "steps": [
+      "Rezance zalej horúcou vodou, nechaj zmäknúť a sceď.",
+      "Zeleninu a tofu nakrájaj na tenké prúžky.",
+      "Zmiešaj všetko na omáčku do hladka.",
+      "List ryžového papiera namoč na 10 sekúnd do teplej vody a polož na mokrú utierku.",
+      "Na spodok daj šalát, rezance, zeleninu, tofu a bylinky.",
+      "Prelož boky dovnútra a pevne zroluj ako palacinku.",
+      "Podávaj s omáčkou na namáčanie. Pri stole sa dajú robiť spolu."
+    ]
+  },
+  {
+    "id": "fazulove-tacos", "name": "Tacos s čiernou fazuľou", "emoji": "🌮", "category": "Zo sveta",
+    "servings": "4 porcie", "time": "25 min",
+    "ingredients": [
+      "2 konzervy čiernej fazule", "1 konzerva kukurice", "1 cibuľa", "2 strúčiky cesnaku",
+      "1 lyžička mletej rasce (kmín)", "1 lyžička sladkej papriky", "8 malých tortíl",
+      "1 avokádo", "2 paradajky", "kyslá smotana", "strúhaný syr", "1 limetka", "1 lyžica oleja"
+    ],
+    "steps": [
+      "Fazuľu a kukuricu sceď a prepláchni.",
+      "Na oleji speň cibuľu a cesnak, pridaj rascu a papriku.",
+      "Pridaj fazuľu a 3 lyžice vody a duš 5 minút. Časť fazule roztlač.",
+      "Avokádo roztlač s trochou limetky, paradajky nakrájaj na kocky.",
+      "Tortily nahrej na suchej panvici.",
+      "Na tortilu daj fazuľu, kukuricu, avokádo, paradajky, syr a lyžicu smotany.",
+      "Namiesto tortíl môžeš všetko dať do misky s ryžou."
+    ]
+  },
+  {
+    "id": "marocky-tagine", "name": "Marocký zeleninový tagine s kuskusom", "emoji": "🇲🇦", "category": "Zo sveta",
+    "servings": "4 porcie", "time": "50 min",
+    "ingredients": [
+      "1 cibuľa", "2 mrkvy", "1 sladký zemiak (batát)", "1 cuketa", "1 konzerva cíceru",
+      "8 sušených marhúľ", "1 lyžička mletej rasce (kmín)", "1 lyžička škorice", "1 lyžička sladkej papriky",
+      "1 konzerva krájaných paradajok", "300 ml vody", "2 lyžice olivového oleja",
+      "250 g kuskusu", "petržlenová vňať"
+    ],
+    "steps": [
+      "Na oleji speň cibuľu, pridaj rascu, škoricu a papriku.",
+      "Pridaj mrkvu a batát nakrájané na kocky a premiešaj.",
+      "Pridaj paradajky, vodu, cícer a marhule nakrájané na polovice.",
+      "Duš pod pokrievkou 20 minút.",
+      "Pridaj cuketu a duš ešte 10 minút.",
+      "Kuskus zalej rovnakým množstvom horúcej vody, prikry na 5 minút a prečechraj vidličkou.",
+      "Podávaj tagine na kuskuse, posyp vňaťou."
+    ]
+  },
+  {
+    "id": "arasidovy-gulas", "name": "Západoafrický arašidový guláš", "emoji": "🥜", "category": "Zo sveta",
+    "servings": "4 porcie", "time": "45 min",
+    "ingredients": [
+      "2 sladké zemiaky (batáty)", "1 cibuľa", "2 strúčiky cesnaku", "1 kúsok zázvoru",
+      "1 konzerva krájaných paradajok", "4 lyžice arašidového masla (nesoleného)", "700 ml vody",
+      "1 konzerva cíceru", "2 hrste špenátu", "1 lyžička mletej rasce (kmín)", "2 lyžice oleja", "ryža"
+    ],
+    "steps": [
+      "Na oleji speň cibuľu, cesnak a zázvor.",
+      "Pridaj rascu a batáty nakrájané na kocky.",
+      "Pridaj paradajky a vodu a var 15 minút.",
+      "Arašidové maslo rozmiešaj v naberačke polievky a vlej do hrnca.",
+      "Pridaj cícer a var ešte 10 minút, kým batáty nie sú mäkké.",
+      "Vmiešaj špenát a nechaj zvädnúť.",
+      "Podávaj s ryžou."
+    ]
+  }
+]

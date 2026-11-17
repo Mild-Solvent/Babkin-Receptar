@@ -1,0 +1,2 @@
+// AGP version: match the one the devbox already has cached (see Slowwave's build.gradle) if this differs.
+plugins { id 'com.android.application' version '8.9.1' apply false }

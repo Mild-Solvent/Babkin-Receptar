@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="sk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Babkin Receptár</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+
+<!-- Splash: hrniec, ktorý mieša varecha -->
+<div id="splash" aria-label="Načítava sa">
+  <svg class="pot-svg" viewBox="0 0 240 240" aria-hidden="true">
+    <g class="steam">
+      <path class="s1" d="M92 70 q-10 -14 0 -28 q10 -14 0 -28" />
+      <path class="s2" d="M120 66 q-10 -14 0 -28 q10 -14 0 -28" />
+      <path class="s3" d="M148 70 q-10 -14 0 -28 q10 -14 0 -28" />
+    </g>
+    <!-- zadný okraj hrnca -->
+    <ellipse cx="120" cy="112" rx="78" ry="16" fill="#7a3b22"/>
+    <ellipse cx="120" cy="114" rx="70" ry="11" fill="#e9a23b"/>
+    <!-- varecha (pohybuje sa krúživo) -->
+    <g class="spoon">
+      <rect x="114" y="10" width="12" height="104" rx="6" fill="#b9793f"/>
+      <rect x="116" y="10" width="4" height="100" rx="2" fill="#d79b5d"/>
+      <ellipse cx="120" cy="116" rx="13" ry="9" fill="#b9793f"/>
+    </g>
+    <!-- predná časť hrnca -->
+    <path d="M42 114 Q42 112 44 112 L196 112 Q198 112 198 114 L190 196 Q188 214 166 214 L74 214 Q52 214 50 196 Z" fill="#c0462a"/>
+    <path d="M42 114 Q120 140 198 114 L197 124 Q120 150 43 124 Z" fill="#a33a22"/>
+    <rect x="18" y="128" width="30" height="14" rx="7" fill="#7a3b22"/>
+    <rect x="192" y="128" width="30" height="14" rx="7" fill="#7a3b22"/>
+    <ellipse cx="96" cy="170" rx="12" ry="20" fill="#d4613f" opacity=".55"/>
+  </svg>
+  <div class="splash-title">Babkin Receptár</div>
+  <div class="splash-sub">Chvíľku, miešam…</div>
+</div>
+
+<!-- Domov -->
+<main id="home" class="screen" hidden>
+  <header class="topbar">
+    <h1>Babkin Receptár</h1>
+    <button id="btnSettings" class="icon-btn" aria-label="Nastavenia">⚙︎</button>
+  </header>
+
+  <div id="updateBanner" class="update-banner" hidden>
+    <div id="updateText">Je pripravená nová verzia aplikácie.</div>
+    <button id="btnUpdate" class="big-btn green">Aktualizovať</button>
+  </div>
+
+  <section class="filters" aria-label="Filter">
+    <div id="filters" class="chips"></div>
+  </section>
+
+  <section id="recentSec" hidden>
+    <h2>Naposledy použité</h2>
+    <div id="recent" class="list"></div>
+  </section>
+
+  <section>
+    <h2 id="allTitle">Všetky recepty</h2>
+    <div id="all" class="list"></div>
+    <p id="empty" class="empty" hidden>Zatiaľ tu nie sú žiadne recepty.</p>
+  </section>
+</main>
+
+<!-- Recept -->
+<main id="recipe" class="screen" hidden>
+  <header class="topbar sticky">
+    <button class="back-btn" data-back>← Späť</button>
+  </header>
+  <h1 id="rTitle" class="r-title"></h1>
+  <p id="rMeta" class="r-meta"></p>
+
+  <h2>Suroviny</h2>
+  <ul id="rIngr" class="checks"></ul>
+
+  <h2>Postup</h2>
+  <ol id="rSteps" class="checks steps"></ol>
+
+  <p id="rNote" class="r-note" hidden></p>
+
+  <button id="btnReset" class="big-btn ghost">Odškrtnúť všetko a začať odznova</button>
+</main>
+
+<!-- Nastavenia -->
+<main id="settings" class="screen" hidden>
+  <header class="topbar sticky">
+    <button class="back-btn" data-back>← Späť</button>
+  </header>
+  <h1 class="r-title">Nastavenia</h1>
+
+  <h2>Veľkosť písma</h2>
+  <div class="size-row">
+    <button id="sizeMinus" class="big-btn square" aria-label="Menšie písmo">A−</button>
+    <div id="sizeVal" class="size-val">100 %</div>
+    <button id="sizePlus" class="big-btn square" aria-label="Väčšie písmo">A+</button>
+  </div>
+  <input id="sizeRange" type="range" min="80" max="200" step="10" value="100" aria-label="Veľkosť písma">
+  <p class="sample">Ukážka: 2 vajcia, 250 g múky</p>
+
+  <h2>Aktualizácie</h2>
+  <p id="verInfo" class="muted"></p>
+  <p id="recInfo" class="muted"></p>
+  <button id="btnCheck" class="big-btn">Skontrolovať teraz</button>
+  <p id="checkMsg" class="muted"></p>
+</main>
+
+<div id="confirm" class="modal" hidden>
+  <div class="modal-card">
+    <p id="confirmText"></p>
+    <div class="modal-btns">
+      <button id="confirmNo" class="big-btn ghost">Nie</button>
+      <button id="confirmYes" class="big-btn green">Áno</button>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

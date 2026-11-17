@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- spoon -->
+    <path android:fillColor="#B9793F" android:pathData="M51,22h6v30h-6z" />
+    <path android:fillColor="#B9793F" android:pathData="M54,49m-6,0a6,4 0,1 1,12 0a6,4 0,1 1,-12 0" />
+    <!-- rim -->
+    <path android:fillColor="#7A3B22" android:pathData="M54,46m-24,0a24,5 0,1 1,48 0a24,5 0,1 1,-48 0" />
+    <!-- pot body -->
+    <path android:fillColor="#C0462A" android:pathData="M30,47L78,47L75,78Q74,84 67,84L41,84Q34,84 33,78Z" />
+    <!-- handles -->
+    <path android:fillColor="#7A3B22" android:pathData="M23,53h8v5h-8z M77,53h8v5h-8z" />
+</vector>

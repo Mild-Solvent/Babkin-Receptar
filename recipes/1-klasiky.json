@@ -1,0 +1,334 @@
+[
+  {
+    "id": "sosovicova-polievka", "name": "Šošovicová polievka", "emoji": "🥣", "category": "Polievky",
+    "servings": "4 porcie", "time": "45 min",
+    "ingredients": [
+      "200 g hnedej šošovice", "1 cibuľa", "2 mrkvy", "2 zemiaky", "2 strúčiky cesnaku",
+      "1 lyžička údenej papriky", "1 lyžička majoránky", "2 bobkové listy", "1,5 l vody",
+      "2 lyžice oleja", "1 lyžica octu", "štipka soli, korenie"
+    ],
+    "steps": [
+      "Šošovicu prepláchni v sitku studenou vodou.",
+      "Cibuľu nakrájaj nadrobno a na oleji ju speň dozlatista.",
+      "Pridaj údenú papriku, raz premiešaj a hneď zalej vodou.",
+      "Pridaj šošovicu, mrkvu a zemiaky nakrájané na kocky a bobkové listy.",
+      "Var pod pokrievkou asi 30 minút, kým šošovica nezmäkne.",
+      "Pridaj prelisovaný cesnak a majoránku, okoreň a dochuť octom.",
+      "Osoľ len trošku, údená paprika dodá chuť aj bez mäsa."
+    ]
+  },
+  {
+    "id": "fazulova-polievka", "name": "Fazuľová polievka", "emoji": "🫘", "category": "Polievky",
+    "servings": "4 porcie", "time": "1 h (fazuľa sa máča cez noc)",
+    "ingredients": [
+      "250 g sušenej fazule (alebo 2 konzervy uvarenej)", "1 cibuľa", "1 mrkva", "1 petržlen",
+      "2 zemiaky", "2 strúčiky cesnaku", "1 lyžička údenej papriky", "1 lyžička majoránky",
+      "1 lyžica hladkej múky", "2 lyžice oleja", "100 ml kyslej smotany", "1 lyžica octu", "štipka soli"
+    ],
+    "steps": [
+      "Fazuľu namoč večer do studenej vody.",
+      "Ráno vodu vylej, fazuľu zalej čerstvou vodou a var asi 1 hodinu do mäkka.",
+      "Pridaj nakrájanú mrkvu, petržlen a zemiaky a var 15 minút.",
+      "Na oleji speň nadrobno nakrájanú cibuľu, pridaj múku a papriku a krátko opraž.",
+      "Zápražku vlej do polievky a dobre rozmiešaj. Var ešte 5 minút.",
+      "Pridaj cesnak a majoránku, dochuť octom a štipkou soli.",
+      "Na tanieri pridaj lyžicu kyslej smotany."
+    ]
+  },
+  {
+    "id": "kapustnica-hubova", "name": "Vianočná kapustnica bez mäsa", "emoji": "🎄", "category": "Polievky",
+    "servings": "6 porcií", "time": "1 h 15 min",
+    "ingredients": [
+      "500 g kyslej kapusty", "1 hrsť sušených húb", "6 sušených sliviek", "1 cibuľa",
+      "1 lyžička údenej papriky", "1 lyžička rasce", "2 bobkové listy", "2 zemiaky",
+      "2 l vody", "2 lyžice oleja", "kyslá smotana na podávanie"
+    ],
+    "steps": [
+      "Huby namoč na 20 minút do teplej vody.",
+      "Kapustu prepláchni studenou vodou a vytlač ju, bude menej slaná.",
+      "Na oleji speň cibuľu, pridaj papriku a hneď zalej vodou.",
+      "Pridaj kapustu, huby aj s vodou, slivky, rascu a bobkové listy.",
+      "Var asi 45 minút.",
+      "Pridaj zemiaky nakrájané na kocky a var ďalších 15 minút do mäkka.",
+      "Nesol, kapusta je slaná dosť. Podávaj s lyžicou kyslej smotany."
+    ]
+  },
+  {
+    "id": "sosovicovy-privarok", "name": "Šošovicový prívarok s vajcom", "emoji": "🍳", "category": "Hlavné jedlá",
+    "servings": "4 porcie", "time": "45 min",
+    "ingredients": [
+      "300 g hnedej šošovice", "1 cibuľa", "2 strúčiky cesnaku", "2 lyžice hladkej múky",
+      "2 lyžice oleja", "2 bobkové listy", "1 lyžica octu", "1 lyžička cukru",
+      "4 vajcia", "chlieb alebo zemiaky", "štipka soli, korenie"
+    ],
+    "steps": [
+      "Šošovicu prepláchni a var ju s bobkovými listami vo vode asi 30 minút do mäkka.",
+      "Na oleji speň nadrobno nakrájanú cibuľu, pridaj múku a opraž dozlatista.",
+      "Zápražku zalej trochou vody z šošovice a rozmiešaj bez hrudiek.",
+      "Vlej ju do šošovice a var 5 minút, kým nezhustne.",
+      "Pridaj cesnak, ocot, cukor, korenie a štipku soli.",
+      "Vajcia uvar natvrdo alebo usmaž volské oko.",
+      "Podávaj s vajcom navrchu a chlebom alebo zemiakmi."
+    ]
+  },
+  {
+    "id": "hrachovy-privarok", "name": "Hrachový prívarok s vajcom", "emoji": "🟢", "category": "Hlavné jedlá",
+    "servings": "4 porcie", "time": "1 h",
+    "ingredients": [
+      "300 g lúpaného hrachu (polený)", "1 cibuľa", "2 lyžice oleja", "1 strúčik cesnaku",
+      "1 lyžička majoránky", "4 vajcia", "chlieb alebo zemiaky", "štipka soli"
+    ],
+    "steps": [
+      "Hrach prepláchni a namoč aspoň na 2 hodiny.",
+      "Var ho v čerstvej vode asi 45 minút, kým sa nerozvarí. Občas zamiešaj.",
+      "Rozvarený hrach rozmixuj alebo prešľahaj metličkou na kašu.",
+      "Na oleji speň cibuľu dozlatista a vmiešaj ju do hrachu.",
+      "Pridaj cesnak, majoránku a štipku soli.",
+      "Vajcia usmaž alebo uvar natvrdo a podávaj navrchu."
+    ]
+  },
+  {
+    "id": "koprovy-privarok", "name": "Kôprový prívarok s vajcom", "emoji": "🌿", "category": "Hlavné jedlá",
+    "servings": "4 porcie", "time": "30 min",
+    "ingredients": [
+      "2 lyžice masla", "2 lyžice hladkej múky", "500 ml mlieka", "200 ml kyslej smotany",
+      "1 veľký zväzok kôpru", "1 lyžica octu", "1 lyžička cukru", "4 vajcia",
+      "zemiaky na varenie", "štipka soli"
+    ],
+    "steps": [
+      "Ošúp zemiaky a daj ich variť do osolenej vody.",
+      "Vajcia uvar natvrdo (10 minút), ošúp ich.",
+      "Na masle krátko opraž múku, nech ostane svetlá.",
+      "Postupne vlej mlieko a stále mešaj metličkou, aby nevznikli hrudky.",
+      "Var 5 minút, kým omáčka nezhustne.",
+      "Vmiešaj kyslú smotanu a nasekaný kôpor, už nevar.",
+      "Dochuť octom, cukrom a štipkou soli.",
+      "Podávaj so zemiakmi a vajcom rozkrojeným na polovice."
+    ]
+  },
+  {
+    "id": "tekvicovy-privarok", "name": "Tekvicový prívarok", "emoji": "🎃", "category": "Hlavné jedlá",
+    "servings": "4 porcie", "time": "40 min",
+    "ingredients": [
+      "1 kg cukety alebo tekvice na prívarok", "1 cibuľa", "2 lyžice masla", "2 lyžice hladkej múky",
+      "250 ml mlieka", "200 ml kyslej smotany", "1 zväzok kôpru", "1 lyžica octu", "1 lyžička cukru",
+      "4 vajcia", "zemiaky alebo chlieb", "štipka soli"
+    ],
+    "steps": [
+      "Tekvicu ošúp, vyber jadierka a nastrúhaj na hrubé rezance.",
+      "Na masle speň cibuľu, pridaj tekvicu a duš pod pokrievkou 10 minút.",
+      "Posyp múkou, premiešaj a podlej mliekom.",
+      "Var 5 minút a stále mešaj.",
+      "Vmiešaj kyslú smotanu a kôpor, dochuť octom, cukrom a štipkou soli.",
+      "Podávaj s vajcom (natvrdo alebo volské oko) a zemiakmi."
+    ]
+  },
+  {
+    "id": "hubovy-paprikas", "name": "Hubový paprikáš s haluškami", "emoji": "🍄", "category": "Hlavné jedlá",
+    "servings": "4 porcie", "time": "45 min",
+    "ingredients": [
+      "# Paprikáš",
+      "600 g šampiňónov", "1 veľká cibuľa", "2 lyžice oleja", "1 lyžica sladkej papriky",
+      "1 zelená paprika", "1 lyžica hladkej múky", "250 ml kyslej smotany", "200 ml vody", "štipka soli, korenie",
+      "# Halušky",
+      "300 g polohrubej múky", "1 vajce", "200 ml vody", "štipka soli"
+    ],
+    "steps": [
+      "# Paprikáš",
+      "Cibuľu nakrájaj nadrobno a speň na oleji dozlatista.",
+      "Pridaj nakrájané huby a papriku a duš 10 minút.",
+      "Posyp sladkou paprikou, premiešaj a podlej vodou. Duš ďalších 10 minút.",
+      "Kyslú smotanu rozmiešaj s múkou a vmiešaj do paprikášu.",
+      "Var 3 minúty, kým nezhustne. Okoreň a pridaj štipku soli.",
+      "# Halušky",
+      "Zmiešaj múku, vajce, vodu a soľ na husté cesto.",
+      "Cez haluškovač alebo z dosky nožom hádž cesto do vriacej vody.",
+      "Keď vyplávajú hore, var ešte 2 minúty a sceď.",
+      "Podávaj halušky s paprikášom."
+    ]
+  },
+  {
+    "id": "strapacky-kapusta", "name": "Strapačky s kapustou", "emoji": "🥬", "category": "Hlavné jedlá",
+    "servings": "4 porcie", "time": "45 min",
+    "ingredients": [
+      "1 kg zemiakov", "300 g hladkej múky", "1 vajce", "400 g kyslej kapusty",
+      "2 cibule", "3 lyžice oleja alebo masla", "1 lyžička rasce", "štipka soli, korenie"
+    ],
+    "steps": [
+      "Kapustu prepláchni studenou vodou a vytlač.",
+      "Na oleji opraž obe cibule dozlatista, aby voňali ako slaninka.",
+      "Pridaj kapustu a rascu a duš 20 minút pod pokrievkou.",
+      "Zemiaky ošúp a nastrúhaj najemno.",
+      "Pridaj vajce a múku a premiešaj na husté cesto.",
+      "Cez haluškovač hádž cesto do vriacej vody, var 3 minúty po vyplávaní a sceď.",
+      "Halušky zmiešaj s kapustou a cibuľkou, okoreň a podávaj."
+    ]
+  },
+  {
+    "id": "francuzske-zemiaky", "name": "Francúzske zemiaky", "emoji": "🥔", "category": "Hlavné jedlá",
+    "servings": "4 porcie", "time": "1 h 15 min",
+    "ingredients": [
+      "1 kg zemiakov", "6 vajec", "2 cibule", "250 g šampiňónov", "400 ml kyslej smotany",
+      "100 g strúhaného syra", "1 lyžica masla", "štipka soli, korenie"
+    ],
+    "steps": [
+      "Zemiaky uvar v šupke do mäkka (asi 25 minút), vychladni, ošúp a nakrájaj na kolieska.",
+      "5 vajec uvar natvrdo a nakrájaj na kolieska.",
+      "Na masle speň cibuľu a huby, kým sa neodparí voda.",
+      "Zapekaciu misu vymaž maslom.",
+      "Ukladaj vrstvy: zemiaky, vajcia, huby s cibuľou. Každú vrstvu okoreň.",
+      "Kyslú smotanu rozmiešaj s posledným vajcom a zalej tým celú misu.",
+      "Posyp syrom a peč pri 180 °C asi 30 minút dozlatista."
+    ]
+  },
+  {
+    "id": "leco-s-vajcom", "name": "Lečo s vajcom", "emoji": "🫑", "category": "Hlavné jedlá",
+    "servings": "4 porcie", "time": "30 min",
+    "ingredients": [
+      "1 kg žltej papriky", "500 g paradajok", "2 cibule", "3 lyžice oleja",
+      "1 lyžička sladkej papriky", "4 vajcia", "chlieb", "štipka soli, korenie"
+    ],
+    "steps": [
+      "Cibuľu nakrájaj na pásiky a speň na oleji.",
+      "Papriku nakrájaj na prúžky, pridaj ju k cibuli a duš 10 minút.",
+      "Paradajky nakrájaj na kúsky, pridaj ich so sladkou paprikou a duš ďalších 10 minút.",
+      "Rozšľahaj vajcia a vlej ich do leča.",
+      "Mešaj, kým vajcia nezhustnú.",
+      "Okoreň, pridaj štipku soli a podávaj s chlebom."
+    ]
+  },
+  {
+    "id": "plnena-paprika", "name": "Plnená paprika s hubami a šošovicou", "emoji": "🫑", "category": "Hlavné jedlá",
+    "servings": "4 porcie", "time": "1 h 15 min",
+    "ingredients": [
+      "# Plnka",
+      "8 paprík na plnenie", "150 g ryže", "100 g uvarenej šošovice", "200 g šampiňónov",
+      "1 cibuľa", "1 vajce", "1 lyžička sladkej papriky", "korenie",
+      "# Paradajková omáčka",
+      "700 ml paradajkového pretlaku (passata)", "300 ml vody", "2 lyžice masla", "2 lyžice hladkej múky",
+      "2 lyžice cukru", "zemiaky alebo knedľa"
+    ],
+    "steps": [
+      "# Plnka",
+      "Ryžu uvar napoly, asi 8 minút, a sceď.",
+      "Na oleji speň cibuľu a nasekané huby.",
+      "Zmiešaj ryžu, šošovicu, huby, vajce, sladkú papriku a korenie.",
+      "Paprikám odrež vršok, vyber jadierka a naplň ich plnkou.",
+      "# Omáčka",
+      "Na masle opraž múku, zalej passatou a vodou a rozmiešaj.",
+      "Pridaj cukor a vlož papriky do omáčky.",
+      "Var pod pokrievkou na miernom ohni asi 40 minút.",
+      "Podávaj so zemiakmi alebo knedľou."
+    ]
+  },
+  {
+    "id": "zemiakove-placky", "name": "Zemiakové placky", "emoji": "🥔", "category": "Hlavné jedlá",
+    "servings": "4 porcie", "time": "40 min",
+    "ingredients": [
+      "1 kg zemiakov", "2 vajcia", "3 lyžice hladkej múky", "3 strúčiky cesnaku",
+      "1 lyžička majoránky", "štipka soli, korenie", "olej na vyprážanie", "kyslá smotana"
+    ],
+    "steps": [
+      "Zemiaky ošúp a nastrúhaj najemno.",
+      "Vytlač z nich vodu.",
+      "Pridaj vajcia, múku, prelisovaný cesnak, majoránku, štipku soli a korenie a premiešaj.",
+      "Na panvici rozohrej olej.",
+      "Lyžicou daj cesto na panvicu a roztlač ho na tenkú placku.",
+      "Vypráž z oboch strán dozlatista a polož na papierovú utierku.",
+      "Podávaj s kyslou smotanou."
+    ]
+  },
+  {
+    "id": "vypražany-karfiol", "name": "Vyprážaný karfiol s tatárskou omáčkou", "emoji": "🥦", "category": "Hlavné jedlá",
+    "servings": "4 porcie", "time": "45 min",
+    "ingredients": [
+      "1 karfiol", "2 vajcia", "hladká múka", "strúhanka", "olej na vyprážanie",
+      "1 kg zemiakov", "tatárska omáčka", "štipka soli"
+    ],
+    "steps": [
+      "Zemiaky ošúp a daj variť.",
+      "Karfiol rozober na ružičky a var 5 minút v mierne osolenej vode. Sceď a nechaj vychladnúť.",
+      "Priprav tri taniere: múka, rozšľahané vajcia, strúhanka.",
+      "Každú ružičku obaľ v múke, potom vo vajci a nakoniec v strúhanke.",
+      "Vypráž v oleji dozlatista a polož na papierovú utierku.",
+      "Podávaj so zemiakmi a tatárskou omáčkou."
+    ]
+  },
+  {
+    "id": "pirohy", "name": "Pirohy so zemiakmi a tvarohom", "emoji": "🥟", "category": "Hlavné jedlá",
+    "servings": "4 porcie", "time": "1 h 15 min",
+    "ingredients": [
+      "# Cesto",
+      "400 g hladkej múky", "1 vajce", "200 ml vlažnej vody", "1 lyžica oleja", "štipka soli",
+      "# Plnka",
+      "500 g zemiakov", "250 g tvarohu", "1 cibuľa", "korenie",
+      "# Navrch",
+      "2 cibule", "3 lyžice masla", "kyslá smotana"
+    ],
+    "steps": [
+      "# Plnka",
+      "Zemiaky uvar, ošúp a roztlač. Primiešaj tvaroh, speňanú cibuľu a korenie.",
+      "# Cesto",
+      "Z múky, vajca, vody, oleja a soli vymiesi hladké cesto. Nechaj ho 20 minút oddýchnuť pod utierkou.",
+      "Cesto rozvaľkaj na tenko a pohárom vykrajuj kolieska.",
+      "Na každé koliesko daj lyžičku plnky, prelož napoly a okraje pevne stlač prstami.",
+      "Var vo vode, kým nevyplávajú, potom ešte 3 minúty.",
+      "Na masle opraž cibuľu dozlatista a polej ňou pirohy.",
+      "Podávaj s kyslou smotanou."
+    ]
+  },
+  {
+    "id": "sulance-s-makom", "name": "Šúľance s makom", "emoji": "🥖", "category": "Sladké",
+    "servings": "4 porcie", "time": "1 h",
+    "ingredients": [
+      "1 kg zemiakov", "250 g hladkej múky", "1 vajce", "štipka soli",
+      "100 g mletého maku", "3 lyžice práškového cukru", "80 g masla"
+    ],
+    "steps": [
+      "Zemiaky uvar v šupke, ošúp ich ešte teplé a nechaj vychladnúť.",
+      "Nastrúhaj ich najemno alebo prelisuj.",
+      "Pridaj múku, vajce a soľ a vymiesi cesto.",
+      "Z cesta urob valček a nakrájaj ho na kúsky.",
+      "Každý kúsok vyšúľaj dlaňami na pomúčenej doske na prst hrubý šúľanec.",
+      "Var ich vo vode, kým nevyplávajú, potom ešte 2 minúty. Sceď.",
+      "Polej rozpusteným maslom a posyp makom zmiešaným s cukrom."
+    ]
+  },
+  {
+    "id": "zemlovka", "name": "Žemľovka s jablkami a tvarohom", "emoji": "🍎", "category": "Sladké",
+    "servings": "4 porcie", "time": "1 h",
+    "ingredients": [
+      "6 starších rožkov alebo žemlí", "500 ml mlieka", "3 vajcia", "1 vanilkový cukor",
+      "4 jablká", "250 g tvarohu", "4 lyžice cukru", "1 lyžička škorice", "30 g masla"
+    ],
+    "steps": [
+      "Rožky nakrájaj na kolieska.",
+      "Mlieko rozšľahaj s 2 vajcami a vanilkovým cukrom.",
+      "Jablká ošúp, nastrúhaj a zmiešaj so škoricou a 2 lyžicami cukru.",
+      "Tvaroh rozmiešaj s 1 vajcom a 2 lyžicami cukru.",
+      "Zapekaciu misu vymaž maslom.",
+      "Ukladaj vrstvy: rožky, jablká, tvaroh. Navrchu nech sú rožky.",
+      "Všetko rovnomerne polej mliekom s vajcami a navrch daj kúsky masla.",
+      "Peč pri 180 °C asi 40 minút, kým nie je navrchu zlatá."
+    ]
+  },
+  {
+    "id": "parene-buchty", "name": "Parené buchty", "emoji": "🥯", "category": "Sladké",
+    "servings": "8 kusov", "time": "1 h 30 min",
+    "ingredients": [
+      "500 g polohrubej múky", "250 ml vlažného mlieka", "20 g droždia", "2 lyžice cukru",
+      "1 vajce", "50 g rozpusteného masla", "štipka soli",
+      "slivkový lekvár na plnenie", "mletý mak alebo strúhaný perník", "práškový cukor", "maslo na poliatie"
+    ],
+    "steps": [
+      "Droždie rozmiešaj v troche vlažného mlieka s lyžičkou cukru a nechaj 10 minút vzísť.",
+      "Pridaj múku, zvyšné mlieko, cukor, vajce, maslo a soľ a vymiesi hladké cesto.",
+      "Nechaj cesto kysnúť pod utierkou na teplom mieste asi 45 minút.",
+      "Rozdeľ ho na 8 kúskov, každý roztlač, daj doprostred lyžicu lekváru a uzavri do guľky.",
+      "Nechaj buchty ešte 15 minút podkysnúť.",
+      "Na hrniec s vriacou vodou natiahni utierku alebo daj parný nadstavec.",
+      "Paruj buchty pod pokrievkou 10 minút z jednej strany, otoč ich a 5 minút z druhej.",
+      "Polej rozpusteným maslom a posyp makom s práškovým cukrom."
+    ]
+  }
+]

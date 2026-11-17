@@ -1,0 +1,42 @@
+plugins { id 'com.android.application' }
+
+// Release signing comes from a properties file OUTSIDE the repo:
+//   BABKIN_SIGNING=/home/remotemaster/keys/babkin-receptar/signing.properties
+//   (storeFile=..., storePassword=..., keyAlias=..., keyPassword=...)
+def signingProps = new Properties()
+def signingPath = System.getenv('BABKIN_SIGNING')
+if (signingPath && file(signingPath).isFile()) file(signingPath).withInputStream { signingProps.load(it) }
+
+android {
+    namespace 'sk.babkin.receptar'
+    compileSdk 35
+    defaultConfig {
+        applicationId 'sk.babkin.receptar'
+        minSdk 24
+        targetSdk 35
+        versionCode 1
+        versionName '1.0.0'
+    }
+    signingConfigs {
+        release {
+            if (signingProps.storeFile) {
+                storeFile file(signingProps.storeFile)
+                storePassword signingProps.storePassword
+                keyAlias signingProps.keyAlias
+                keyPassword signingProps.keyPassword
+            }
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig signingProps.storeFile ? signingConfigs.release : null
+        }
+    }
+    buildFeatures { buildConfig true }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    lint { abortOnError false; checkReleaseBuilds false }
+}
